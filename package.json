@@ -1,0 +1,25 @@
+{
+  "name": "@wiajs/preset",
+  "version": "0.1.1",
+  "description": "Presets of wia workspace",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiajs/preset.git"
+  },
+  "keywords": [
+    "wia",
+    "preset"
+  ],
+  "author": {
+    "name": "Sibyl Yu",
+    "email": "sibyl@wia.pub"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wiajs/preset/issues"
+  },
+  "homepage": "https://www.wia.pub/preset",
+  "publishConfig": {
+    "access": "public"
+  }
+}
